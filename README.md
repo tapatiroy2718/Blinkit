@@ -1,9 +1,9 @@
-# 📊 Blinkit Dashboard Analysis  
+#   Blinkit Dashboard Analysis  
 ### Sales, Inventory & Customer Insights using Google Looker Studio  
 
 ---
 
-## 🟡 Introduction  
+##   Introduction  
 In the quick-commerce industry, data plays a crucial role in optimizing operations, improving customer satisfaction, and maximizing revenue.  
 
 This project focuses on building a **multi-page interactive dashboard** to analyze Blinkit’s business performance across:  
@@ -13,7 +13,7 @@ This project focuses on building a **multi-page interactive dashboard** to analy
 
 ---
 
-## 💻 Tech Stack  
+##  Tech Stack  
 - Data Source: Blinkit Dataset  
 - Data Preparation: Google Sheets  
 - Visualization Tool: Google Looker Studio  
@@ -48,11 +48,11 @@ This project focuses on building a **multi-page interactive dashboard** to analy
 
 ---- 
 
-## 📄 Dashboard Pages  
+##   Dashboard Pages  
 
 ---
 
-### 🔹 Page 1: Executive Overview & KPI Metrics  
+###  Page 1: Executive Overview & KPI Metrics  
 
 ![Inventory](inventory_stock/page2.png)
 
@@ -68,7 +68,7 @@ This project focuses on building a **multi-page interactive dashboard** to analy
 
 ---
 
-### 🔹 Page 2: Inventory & Stock Performance  
+###  Page 2: Inventory & Stock Performance  
 
 ![Customer](customer_insights/page3.png)
 
@@ -83,7 +83,7 @@ This project focuses on building a **multi-page interactive dashboard** to analy
 
 ---
 
-### 🔹 Page 3: Customer Insights & Behavior  
+###  Page 3: Customer Insights & Behavior  
 ![Executive Overview](executive_overview/page1.png)
 
 **Key Metrics:**  
@@ -98,7 +98,7 @@ This project focuses on building a **multi-page interactive dashboard** to analy
 
 ---
 
-## 🛠️ Tools & Workflow  
+##  Tools & Workflow  
 
 1. Data Collection – Blinkit dataset  
 2. Data Cleaning – Google Sheets  
@@ -107,7 +107,7 @@ This project focuses on building a **multi-page interactive dashboard** to analy
 
 ---
 
-## 📈 Key Insights  
+##  Key Insights  
 
 - Essential goods drive revenue  
 - Inventory damage causes losses  
@@ -115,7 +115,7 @@ This project focuses on building a **multi-page interactive dashboard** to analy
 
 ---
 
-## 🚀 Recommendations  
+##  Recommendations  
 
 - Improve inventory handling  
 - Optimize delivery operations  
@@ -123,12 +123,10 @@ This project focuses on building a **multi-page interactive dashboard** to analy
 
 ---
 
-## 🔗 Project Links  
+##  Project Links  
 
 - Live Dashboard: (https://datastudio.google.com/u/0/reporting/726c6be0-f06b-4b6c-965a-bf0d3fd2e0de/page/ZXawF)  
 - Dataset: (https://www.kaggle.com/datasets/akxiit/blinkit-sales-dataset)  
 
 ---
 
-## ⭐ If you like this project  
-Give it a ⭐ on GitHub!
