@@ -26,7 +26,7 @@ This project focuses on building a **multi-page interactive dashboard** to analy
 
 ### 🔹 Page 1: Executive Overview & KPI Metrics  
 
-![Page 1 Dashboard](images/page1.png)
+![Inventory](inventory_stock/page2.png)
 
 **Key Metrics:**  
 - Total Revenue: ₹4.97M  
@@ -42,7 +42,7 @@ This project focuses on building a **multi-page interactive dashboard** to analy
 
 ### 🔹 Page 2: Inventory & Stock Performance  
 
-![Page 2 Dashboard](images/page2.png)
+![Customer](customer_insights/page3.png)
 
 **Key Metrics:**  
 - Total Stock: 7.7M+  
@@ -56,8 +56,7 @@ This project focuses on building a **multi-page interactive dashboard** to analy
 ---
 
 ### 🔹 Page 3: Customer Insights & Behavior  
-
-![Page 3 Dashboard](images/page3.png)
+![Executive Overview](executive_overview/page1.png)
 
 **Key Metrics:**  
 - Total Customers: 5,328  
