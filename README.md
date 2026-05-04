@@ -97,8 +97,8 @@ This project focuses on building a **multi-page interactive dashboard** to analy
 
 ## 🔗 Project Links  
 
-- Live Dashboard: (Add link)  
-- Dataset: (Add link)  
+- Live Dashboard: (https://datastudio.google.com/u/0/reporting/726c6be0-f06b-4b6c-965a-bf0d3fd2e0de/page/ZXawF)  
+- Dataset: (https://www.kaggle.com/datasets/akxiit/blinkit-sales-dataset)  
 
 ---
 
