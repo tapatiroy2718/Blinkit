@@ -20,6 +20,34 @@ This project focuses on building a **multi-page interactive dashboard** to analy
 
 ---
 
+
+## Data Dictionary
+
+ | **Column Name**    | **Description**                                 | **Data Type** |
+| ------------------ | ----------------------------------------------- | ------------- |
+| order_id           | Unique identifier for each order                | String        |
+| customer_id        | Unique identifier for each customer             | String        |
+| product_id         | Unique identifier for each product              | String        |
+| product_name       | Name of the product                             | Categorical   |
+| category           | Product category (Dairy, Snacks, Grocery, etc.) | Categorical   |
+| order_date         | Date when the order was placed                  | Date          |
+| quantity           | Number of units ordered                         | Integer       |
+| price              | Price per unit of product                       | Float         |
+| total_amount       | Total order value (price × quantity)            | Float         |
+| payment_method     | Mode of payment (UPI, Card, Wallet, Cash)       | Categorical   |
+| delivery_time      | Time taken for delivery (in minutes)            | Integer       |
+| delivery_status    | Order status (Delivered, Cancelled, Pending)    | Categorical   |
+| stock_available    | Available stock for the product                 | Integer       |
+| stock_received     | Quantity of stock received                      | Integer       |
+| damaged_stock      | Quantity of stock damaged                       | Integer       |
+| warehouse_location | Location of warehouse                           | Categorical   |
+| customer_rating    | Rating given by customer (1–5)                  | Float         |
+| feedback_category  | Type of feedback (Delivery, Service, Product)   | Categorical   |
+| customer_segment   | Customer type (New, Regular, Premium, Inactive) | Categorical   |
+
+
+---- 
+
 ## 📄 Dashboard Pages  
 
 ---
